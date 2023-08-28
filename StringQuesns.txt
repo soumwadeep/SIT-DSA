@@ -1,0 +1,4 @@
+1.Take A String Input From User And Print It.
+2.Take The Same Input And Reverse It.
+3.Find The Length Of The String.
+4.Concat 2 Strings.

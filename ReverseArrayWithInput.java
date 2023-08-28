@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class ReverseArrayWithInput 
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner takeInputs = new Scanner(System.in);
         System.out.println("Give Me The Size Of Your Array:");
         int arraySize = takeInputs.nextInt();
@@ -22,6 +23,5 @@ public class ReverseArrayWithInput
         {
             System.out.println(arr[i]);
         }
-
     }
 }
