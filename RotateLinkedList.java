@@ -7,7 +7,7 @@ class ListNode {
     }
 }
 
-public class RotateLinkedList {
+class RotateLinkedList {
     public static ListNode rotateRight(ListNode head, int k) {
         if (head == null || k <= 0) {
             return head;

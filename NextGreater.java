@@ -4,7 +4,6 @@ public class NextGreater {
     public static int[] nextGreaterElements(int[] nums) {
         int[] result = new int[nums.length];
         Arrays.fill(result, -1); // Initialize the result array with -1
-
         Stack<Integer> stack = new Stack<>();
         int n = nums.length;
 
